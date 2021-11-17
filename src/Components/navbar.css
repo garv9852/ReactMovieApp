@@ -1,0 +1,10 @@
+.navbar-cont{
+    display: flex;
+    align-items: center;
+    padding-left: 25px;
+    padding-right: 30px;
+    justify-content: space-between;
+}
+.fav-btn{
+    font-size: larger;
+}
