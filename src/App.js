@@ -2,7 +2,7 @@ import Navbar from "./Components/navbar"
 import Banner from "./Components/banner"
 import Movies from "./Components/movi"
 import Favorite from "./Components/favorite";
-import {BrowserRouter as Router,Switch,Route, BrowserRouter} from  'react-router-dom';
+import {BrowserRouter as Router,Switch,Route} from  'react-router-dom';
 import './App.css';
 
 function App() {

@@ -17,6 +17,8 @@ export default class Movi extends Component {
         this.setState({
             movies:[...data.results]
         })
+        this.handleFavStore()
+
     }
     prePage=()=>{
         console.log("done");

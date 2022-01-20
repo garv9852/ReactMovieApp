@@ -44,3 +44,6 @@ img{
 .favorite-tables{
   padding: 3rem;
 }
+.list-group-item{
+  cursor: pointer;
+}
